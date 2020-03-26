@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [zookeeper](./md/zookeeper.md)
 
 * [集群管理](./md/clusterManager.md)
